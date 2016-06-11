@@ -1,0 +1,95 @@
+<html>
+<head>
+<title>SUGENG SISWANTO</title>
+</head>
+<body>
+<marquee>------------------------->Halaman Web Sederhana ini Merupakan <b>"Tugas 1"</b>... Mata Kuliah <b>"Pemrogaman Web"</b><----------------------------- </marquee>
+<table width="520" border="1" align="center" cellpadding="1" cellspacing="1" bordercolor="#339900" bgcolor="violet">
+  <tr bgcolor="silver">
+    <th colspan="3" height="65">
+    <p>DATA BIODATA SAYA</p>
+    </th>
+  </tr>
+  <tr>
+    <td width="153"><b>NAMA</b></td>
+    <td width="23"><div align="center" >:</div></td>
+    <td width="326"> SUGENG SISWANTO </td>
+  </tr>
+  <tr>
+    <td><b>NPM</b></td>
+    <td><div align="center" >:</div></td>
+    <td> 1412110152</td>
+  </tr>
+  <tr>
+    <td><b>ANGKATAN</b></td>
+    <td><div align="center" >:</div></td>
+    <td>  /B</td>
+  </tr>
+  <tr>
+    <td><b>TTL</b></td>
+    <td><div align="center" >:</div></td>
+    <td> TUBAN,14-11-1993</td>
+  </tr>
+  <tr>
+    <td><b>ALAMAT</b></td>
+    <td><div align="center" >:</div></td>
+    <td> Ds. Pugoh Kec. Bancar Kab.Tuban</td>
+  </tr>
+  <tr>
+    <td height="175"><b>RIWAYAT PENDIDIKAN </b></td>
+    <td><div align="center" >:</div></td>
+    <td><p> A.PENDIDIKAN FORMAL </p>
+      <table width="284" align="center" bordercolor="#000000">
+      <tr>
+        <td > i  . SD/MI </td>
+        <td >:</td>
+        <td > SDN 1 PUGOH </td>
+      </tr>
+      <tr>
+        <td > ii  . SMP/MTS </td>
+        <td >:</td>
+        <td > SMPN 1 BANCAR </td>
+      </tr>
+      <tr>
+        <td > iii . SMA/SMK </td>
+        <td >:</td>
+        <td > SMAN 1 JATIROGO</td>
+      </tr>
+    </table>
+    <p > B. NON FORMAL : DEWAN AMBALAN, OSIS</p> 
+  </td>
+  </tr>
+  <tr>
+    <td><b>EMAIL</b></td>
+    <td><div align="center" >:</div></td>
+    <td>sugengmyid@gmail.com</td>
+  </tr>
+  <tr>
+    <td><b>HOMEPAGE/BLOG</b></td>
+    <td><div align="center" >:</div></td>
+    <td> http://www.sugengsis.blogspot.com</td>
+  </tr>
+  <tr>
+    <td><b>HOBBY</b></td> 
+    <td><div align="center" >:</div></td>
+    <td> Jalan-Jalan Di Rumah Maya</td>
+  </tr>
+  <tr bgcolor="silver">
+    <td height="23" colspan="3"><p><hr></p>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DESKRIPSI PRIBADI</b></td>
+    <td align="center">:</td>
+    <td> Simple, Nice, Kindly</td>
+  </tr>
+  <tr>
+    <td><b>FOTO PROFIL </b></td>
+    <td align="center">:</td>
+    <td><div align="center"><img src="sugeng siswanto.png" alt="Sugeng Siswanto" width="250" height="200"></div></td>
+  </tr>
+</table>
+</body>
+</html>
+
+Sumber : http://tif12b.blogspot.co.id/2013/10/cara-membuat-tabel-biodata-diri-diserta-foto-dengan.html#ixzz4BHmM3n50
